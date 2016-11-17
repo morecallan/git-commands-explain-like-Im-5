@@ -1,1 +1,25 @@
-# git-commands-explain-like-Im-5
+# Explain the following to me like I'm 5 (or maybe just not a developer.)
+
+
+1. git:
+1. github:
+1. git config --global:
+1. git init:
+1. git status:
+1. git add .:
+1. git add [fileName]:
+1. git add -p:
+1. git commit -m "message":
+1. git push -u origin master:
+1. git checkout -b [branchName]:
+1. git log:
+1. git remote -v:
+1. git remote add upstream [githubUrl]:
+1. git pull origin master:
+1. git pull origin [branchName]:
+1. git pull upstream master:
+1. git pull upstream [branchName]:
+1. git fetch origin [branchName]:
+1. git fetch upstream [branchName]:
+1. git fetch:
+1. git clone [githubUrl]:
