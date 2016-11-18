@@ -1,5 +1,16 @@
-# Explain the following to me like I'm 5 (or maybe just not a developer.)
-### Think you've got some git fu?
+# Explain the following to me like I'm 5 (or maybe just not a developer).
+### Think you've got some git fu? We've covered the git workflow in class. Try to challenge yourself to articulate each of the following commands or concepts.
+
+You don't have to have these memorized. Do some research. Look at your notes. Ask your classmates.
+
+## Instructions:
+```
+1. Fork this repo.
+2. Clone your forked repo to your local machine.
+3. Explain/articulate each of the commands and concepts in a way that a total git newbie might understand.
+4. Think you've got a good answer or two? Feel free to make a pull request to my repo.
+Hint: You might want to add my repo as an upstream in case other classmates have been adding their awesome answers.
+```
 
 #### Commands and concepts
 1. git:
