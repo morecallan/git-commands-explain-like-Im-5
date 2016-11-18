@@ -1,4 +1,5 @@
 # Explain the following to me like I'm 5 (or maybe just not a developer.)
+### Think you've got some git fu?
 
 #### Commands and concepts
 1. git:
